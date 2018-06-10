@@ -1,5 +1,6 @@
 CS320_Project
 Simulation: 
+
             parse.py -> Parser
 
             compile.py -> compiler
